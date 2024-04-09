@@ -10,7 +10,7 @@ const about = {
   role: 'Front End Engineer',
   description:
     ' Frontend Developer proficient in React.js, Node.js, and HTML/CSS/JavaScript. Crafting sleek, responsive websites and dynamic web apps. Lets collaborate to elevate your digital presence',
-  resume: 'https://drive.google.com/file/d/1R2Xtg9DNbRFcc1etI356QTBEjCSPdrbw/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1R2Xtg9DNbRFcc1etI356QTBEjCSPdrbw/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/prashant-d-singh',
     github: 'https://github.com/Nikhil170404',
