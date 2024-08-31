@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Prashant Singh',
-  role: 'Front End Engineer',
+  role: 'Full Stack Developer',
   description:
     ' Frontend Developer proficient in React.js, Node.js, and HTML/CSS/JavaScript. Crafting sleek, responsive websites and dynamic web apps. Lets collaborate to elevate your digital presence',
   resume: 'https://drive.google.com/file/d/1R2Xtg9DNbRFcc1etI356QTBEjCSPdrbw/view?usp=drive_link',
@@ -20,6 +20,14 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
+  {
+    name: 'RiseUnderdog',
+    description:
+      'RiseUnderdog is an eSports tournament platform for competitive gamers. It lets players join paid entry matches in games like FreeFire, Call of Duty, and BGMI, either 1v1 or squad vs squad. Users can manage profiles, track match history, and earn rewards. Built with React, Node.js, and Firebase, RiseUnderdog offers a secure, scalable, and modern gaming experience.',
+    stack: ['REACT','FIREBASE','REDUX','FIRESTORE','NODE.JS','MATERIAL UI'],
+  
+    livePreview: "https://nikhil170404.github.io/Containders.io/",
+  },
   {
     name: 'Recipe Shower',
     description:
@@ -53,6 +61,42 @@ const projects = [
     sourceCode: 'https://github.com/Nikhil170404/LetterBox.io',
     livePreview: "/LetterBox.apk",
   },
+
+  {
+    name: 'uifry',
+    description:
+      'The landing page for the accounting app is sleek and modern, featuring a clean layout with a professional white background. It includes a compelling hero section, responsive design, smooth navigation, and well-organized feature highlights with icons and imagery. The overall design is user-friendly, engaging, and perfectly suited for an accounting app.',
+    stack: ['HTML','CSS','JS'],
+    sourceCode: 'https://github.com/Nikhil170404/LandingPg.io',
+    livePreview: "https://uifry-mocha.vercel.app/",
+  },
+
+  {
+    name: 'Ads Banner',
+    description:
+      'The site, built with Next.js, offers users a dynamic experience with 10 customizable banners. Users can easily adjust each banners background, description, title, and text color, providing a personalized and engaging interface. This feature allows for seamless customization and a tailored visual experience.',
+    stack: ['NEXT JS','TYPESCRIPT','CSS'],
+    sourceCode: 'https://github.com/Nikhil170404/AdsBanner.io',
+    livePreview: "https://ads-banner-io.vercel.app/",
+  },
+
+  {
+    name: 'News.io',
+    description:
+      'The news site leverages Redux for state management and pagination, fetching articles from NewsAPI to display news content. It provides users with a streamlined experience by managing and presenting news articles across various sections and locations, ensuring a well-organized and efficient news browsing experience.',
+    stack: ['REACT','REDUX','NODEJS','NEWSAPI'],
+    sourceCode: 'https://github.com/Nikhil170404/NEWSS.IO',
+    livePreview: "https://nikhil170404.github.io/NEWSS.IO/",
+  },
+
+  {
+    name: 'ProShop',
+    description:
+      'ProShop combines a Node.js backend and MongoDB to manage product listings and secure user authentication, delivering a seamless shopping experience.With React for a dynamic frontend, ProShop offers an intuitive interface for browsing products and handling transactions efficiently.',
+    stack: ['REACT','NODEJS','MONGODB'],
+    sourceCode: 'https://github.com/Nikhil170404/EcommerceShop.io',
+    livePreview: "https://frontend-or4y5rjna-nikhil170404s-projects.vercel.app/",
+  },
 ]
 
 const skills = [
@@ -62,9 +106,11 @@ const skills = [
   'CSS',
   'JavaScript',
   'TypeScript',
-  'React',
+  'React js',
+  'Redux',
   'SASS',
   'Material UI',
+  'Next js',
   'Git',
   'Java',
   'Python',
