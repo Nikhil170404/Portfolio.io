@@ -26,7 +26,7 @@ const projects = [
       'RiseUnderdog is an eSports tournament platform for competitive gamers. It lets players join paid entry matches in games like FreeFire, Call of Duty, and BGMI, either 1v1 or squad vs squad. Users can manage profiles, track match history, and earn rewards. Built with React, Node.js, and Firebase, RiseUnderdog offers a secure, scalable, and modern gaming experience.',
     stack: ['REACT','FIREBASE','REDUX','FIRESTORE','NODE.JS','MATERIAL UI'],
   
-    livePreview: "https://nikhil170404.github.io/Containders.io/",
+    livePreview: "https://nikhil170404.github.io/RiseUnderdog.io/",
   },
   {
     name: 'Recipe Shower',
