@@ -34,7 +34,7 @@ const projects = [
       'Experience authentic Indian cuisine showcased beautifully: Prashant Singh recipe site features a rich collection of dishes, ingredients, and preparation times. Enhanced with Firebase authentication for seamless access.',
     stack: ['HTML', 'CSS', 'JAVASCRIPT','FIREBASE'],
     sourceCode: 'https://github.com/Nikhil170404/RecipeShow',
-    livePreview: 'https://65d990f6fd5529b3d3ec9912--jocular-alfajores-f0c0ab.netlify.app/',
+    livePreview: 'https://recipeshow.netlify.app/',
   },
   {
     name: 'Game Center',
@@ -42,7 +42,7 @@ const projects = [
       'Dive into classic gaming fun on Prashant Singh site, featuring Tic-Tac-Toe, Blackjack, and Rock-Paper-Scissors. Seamlessly authenticated via Firebase, enjoy hours of entertainment with simple HTML, CSS, and JS.',
     stack: ['HTML', 'CSS', 'JAVASCRIPT','FIREBASE'],
     sourceCode: 'https://github.com/Nikhil170404/Gamecenter',
-    livePreview: 'https://phenomenal-taffy-fa37b0.netlify.app/',
+    livePreview: 'https://gamecenter0.netlify.app/',
   },
   {
     name: 'MoneySprint',
